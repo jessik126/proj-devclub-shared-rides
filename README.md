@@ -4,4 +4,6 @@ This project is a web page developed using HTML and CSS as part of the <a href="
 
 The design was coded following the <a href="https://www.figma.com/design/LzA0ntQdfERw4z41hxvLSs/"> draft on Figma</a>.
 
-This is not responsive yet.
+Obs: This is not responsive yet.
+
+▶️ You can check it running at GitHub Pages: <a href="https://jessik126.github.io/proj-devclub-shared-rides/"> click here</a>.
